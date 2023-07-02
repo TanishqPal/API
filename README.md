@@ -23,33 +23,28 @@ To run the scripts in this repository, you need to have the following dependenci
 
 1. Clone the repository:
 
-<pre><code>```bash
+```bash
 git clone https://github.com/your-username/country-data-visualization.git
 ```
-</code></pre>
 
 2. Install the required dependencies:
-<pre><code>```bash
+```bash
 pip install -r requirements.txt
 ```
-</code></pre>
 
 3. Run the scripts:
 
 To fetch country data and create a JSON file:
-<pre><code>```bash
+```bash
 python country_data.py
 ```
-</code></pre>
 
 To visualize the population of the top 20 countries:
-<pre><code>```bash
+```bash
 python visualize_population.py
 ```
-</code></pre>
 To fetch additional data from Wikipedia:
-<pre><code>```bash
+```bash
 python wiki_data.py
 ```
-</code></pre>
 Feel free to explore and modify the scripts to suit your needs.
