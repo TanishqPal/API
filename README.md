@@ -48,7 +48,7 @@ python visualize_population.py
 ```
 </code></pre>
 To fetch additional data from Wikipedia:
-pre><code>```bash
+<pre><code>```bash
 python wiki_data.py
 ```
 </code></pre>
