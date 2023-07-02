@@ -8,6 +8,12 @@ This repository contains Python scripts to fetch and visualize country data usin
 - `visualize_population.py`: This script reads the country data from the JSON file and visualizes the population of the top 20 countries using matplotlib and seaborn libraries.
 - `wiki_data.py`: This script fetches additional data from the Wikipedia API and prints it to the console.
 
+## Visualization
+
+Here is a screenshot of the graph output:
+
+![Graph Output](assets/screenshot1.jpg)
+
 ## Dependencies
 
 To run the scripts in this repository, you need to have the following dependencies installed:
