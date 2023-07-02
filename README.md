@@ -12,7 +12,7 @@ This repository contains Python scripts to fetch and visualize country data usin
 
 Here is a screenshot of the graph output:
 
-![Graph Output](assets/screenshot1.jpg)
+![Graph Output](assets/screenshot1.png)
 
 ## Dependencies
 
