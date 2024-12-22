@@ -13,7 +13,7 @@ def format_y_tick_labels(value, _):
         return str(value)
 
 # Read the data
-data = pd.read_json("/home/tanishq/Documents/API/countrypoparea.json")
+data = pd.read_json("countrypoparea.json")
 data_sorted = data.sort_values('population', ascending=False).head(20)
 
 # Set up a modern and stylistic plot style
